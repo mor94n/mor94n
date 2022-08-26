@@ -6,11 +6,11 @@
 - ⚡ Fun fact: I play guitar, bass guitar and I love to go bouldering
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/acidbu7n#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/acidbu7n#gh-dark-mode-only)
+(./img/twitter-light.svg)](https://twitter.com/acidbu7n#gh-light-mode-only)
+(./img/twitter-dark.svg)](https://twitter.com/acidbu7n#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/morgan-ollerton-247355204#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/morgan-ollerton-247355204#gh-dark-mode-only)
+(./img/linkedin-light.svg)](www.linkedin.com/in/morgan-ollerton-247355204#gh-light-mode-only)
+(./img/linkedin-dark.svg)](www.linkedin.com/in/morgan-ollerton-247355204#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:

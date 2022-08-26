@@ -10,7 +10,7 @@
 <a href="https://twitter.com/acidbu7n">
   <img align="left" alt="Morgan's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/morgan-ollerton-247355204">
+<a href="https://www.linkedin.com/in/morgan-ollerton-247355204/">
   <img align="left" alt="Morgan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 

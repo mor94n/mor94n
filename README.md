@@ -6,12 +6,12 @@
 - ⚡ Fun fact: I play guitar, bass guitar and I love to go bouldering
 
 ### Connect with me:
-(./img/twitter-light.svg)](https://twitter.com/acidbu7n#gh-light-mode-only)
-(./img/twitter-dark.svg)](https://twitter.com/acidbu7n#gh-dark-mode-only)
-&nbsp;&nbsp;
-(./img/linkedin-light.svg)](www.linkedin.com/in/morgan-ollerton-247355204#gh-light-mode-only)
-(./img/linkedin-dark.svg)](www.linkedin.com/in/morgan-ollerton-247355204#gh-dark-mode-only)
-&nbsp;&nbsp;
+<a href="https://twitter.com/acidbu7n">
+  <img align="left" alt="Morgan's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="www.linkedin.com/in/morgan-ollerton-247355204">
+  <img align="left" alt="Morgan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ### Languages and Tools:
 

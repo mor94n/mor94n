@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning anything and everything :^)
 - 👯 I’m looking to collaborate on full stack applications
+- ⚡ My most recent project: Dashbored : A full-stack MERN application
+- 🎓 I'm a graduate of Code Nation's Master:Coding Bootcamp
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I play guitar, bass guitar and I love to go bouldering
 

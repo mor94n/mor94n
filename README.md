@@ -1,6 +1,6 @@
 ## Hi there, Im Morgan 
 
-- 🌱 I’m currently learning anything and everything :^)
+- 🌱 I’m currently learning Java :^)
 - 👯 I’m looking to collaborate on full stack applications
 - ⚡ My most recent project: Dashbored, A full-stack MERN application
 - 🎓 Bootcamp Graduate

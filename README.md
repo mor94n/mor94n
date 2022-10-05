@@ -6,6 +6,7 @@
 - 🎓 Bootcamp Graduate
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I play guitar, bass guitar and I love to go bouldering
+- :octocat: :octocat: :octocat: :octocat: :octocat:
 
 
 ### Connect with me:

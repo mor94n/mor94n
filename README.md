@@ -1,3 +1,4 @@
+![lain gif](https://github.com/mor94n/gifs/blob/main/serial.gif)
 ## Hi there, Im Morgan 
 
 - 🌱 I’m currently learning Java :^)

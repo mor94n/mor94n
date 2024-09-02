@@ -1,12 +1,8 @@
 ![lain gif](https://github.com/mor94n/gifs/blob/main/serial.gif)
-## Hi there, Im Morgan 
-
-- 🌱 I’m currently learning Java :^)
-- 👯 I’m looking to collaborate on full stack applications
-- ⚡ My most recent project: Dashbored, A full-stack MERN application
-- 🎓 Bootcamp Graduate
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I play guitar, bass guitar and I love to go bouldering
+## Hi there, Im Morgan
+- ⚡ Programming languages: Java, C#, Python, JavaScript
+- 💀 Hobbies: Rock climbing, Gym, Reading, Coding 
+- 🦷 Goals: Collab more on projects and meet new people
 - :octocat: :octocat: :octocat: :octocat: :octocat:
 
 

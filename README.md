@@ -1,9 +1,11 @@
 ![lain gif](https://github.com/mor94n/gifs/blob/main/serial.gif)
 ## Hi there, Im Morgan
-- ⚡ Programming languages: Java, C#, Python, JavaScript
+
+About me: Automation tester at a Big 4 consultancy. Currently working through CS50 to level up my understanding of computer science and improve by coding skills beyond test automation.
+
+- ⚡ Programming languages: C, Java, C#, Python, JavaScript
 - 💀 Hobbies: Rock climbing, Gym, Reading, Coding 
 - 🦷 Goals: Collab more on projects and meet new people
-- :octocat: :octocat: :octocat: :octocat: :octocat:
 
 
 ### Connect with me:

@@ -15,7 +15,7 @@
   Rock climbing, Gym, Reading, Coding 
 
   ### 🦷 Goals
-  Collab more on projects and meet new people
+  Build a stronger foundation in software engineering
 
   <br />
 

@@ -21,16 +21,7 @@
 
   ### Languages and Tools:
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" width="25px"></a>
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/java.svg" width="25px"></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/python.svg" width="25px"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/typescript-icon.svg" width="25px"></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" width="25px"></a>
-  <a href="https://www.w3.org/TR/html5/"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" width="25px"></a>
-  <a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/css-3.svg" width="25px"></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/nodejs-icon.svg" width="25px"></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" width="25px"></a>
-  <a href="https://www.npmjs.com/"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/npm.svg" width="25px"></a>
+[![My Skills](https://skillicons.dev/icons?i=js,c,cs,java,py,html,css,react,git,nodejs,npm,jenkins,postman,selenium,vscode)](https://skillicons.dev)
 
   <br /><br />
 
